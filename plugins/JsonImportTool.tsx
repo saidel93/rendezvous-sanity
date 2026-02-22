@@ -30,6 +30,9 @@ const TEMPLATES: Record<string, object[]> = {
       age: 27,
       tagline: 'Votre slogan accrocheur ici (max 120 caractères)',
       bio: 'Votre bio complète ici...',
+      heroTitle: 'Femme passionnée cherche complice de vie',
+      seoTitle: 'Sophie, 27 ans – Rencontre sérieuse à Montréal',
+      seoDescription: 'Découvrez le profil de Sophie, 27 ans, à Montréal. Relation sérieuse. Profil vérifié sur RendezVous Québec.',
       photoUrl: 'https://lien-vers-votre-photo.jpg',
       photosUrls: [
         { _key: 'p1', url: 'https://lien-photo-2.jpg' },
@@ -53,6 +56,8 @@ const TEMPLATES: Record<string, object[]> = {
       nom: 'Nom de la ville',
       region: 'Région',
       slug: { _type: 'slug', current: 'nom-de-la-ville' },
+      seoTitle: 'Rencontres à Nom-Ville – Célibataires Nom-Ville, Québec',
+      seoDescription: 'Rencontrez des célibataires vérifiés à Nom-Ville. Hommes et femmes de la région cherchant une relation sérieuse ou décontractée.',
     },
   ],
   categorie: [
@@ -63,6 +68,8 @@ const TEMPLATES: Record<string, object[]> = {
       emoji: '❤️',
       description: 'Description courte de la catégorie.',
       slug: { _type: 'slug', current: 'nom-de-la-categorie' },
+      seoTitle: 'Nom-Catégorie au Québec – Rencontres ❤️',
+      seoDescription: 'Trouvez des célibataires pour des rencontres Nom-Catégorie au Québec. Profils vérifiés sur RendezVous Québec.',
     },
   ],
 }

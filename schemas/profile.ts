@@ -76,6 +76,14 @@ export default defineType({
 
     // ── SEO ────────────────────────────────────────────────────────────────
     defineField({
+      name: 'heroTitle',
+      title: '🎯 Titre principal (affiché en grand sur la page)',
+      type: 'string',
+      group: 'seo',
+      description: 'Ex: "Femme passionnée cherche complice de vie". ~7 mots. Si vide, le prénom et l\'âge sont utilisés.',
+      validation: (Rule) => Rule.max(80),
+    }),
+    defineField({
       name: 'seoTitle',
       title: '🔍 Titre SEO (= titre de la page dans Google)',
       type: 'string',
