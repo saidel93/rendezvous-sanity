@@ -1,0 +1,1812 @@
+[
+  {
+    "_type": "profile",
+    "_id": "profile-sophie-montreal",
+    "nom": "Sophie",
+    "slug": {
+      "_type": "slug",
+      "current": "sophie-montreal"
+    },
+    "age": 26,
+    "tagline": "Amoureuse de l'art, du café et des randos",
+    "bio": "Bonjour! Je suis Sophie, graphiste dans le Mile End. Je passe mes week-ends à explorer les galeries du Plateau, à dénicher des livres vintage sur Saint-Denis et à tester chaque brûlerie de Montréal.\n\nJe crois aux matins tranquilles, aux longues conversations et aux voyages spontanés. Je cherche quelqu'un qui peut suivre ma curiosité et n'a pas peur d'essayer de nouvelles choses.\n\nSi vous aimez la bonne bouffe, l'art et les échanges authentiques — on va bien s'entendre!",
+    "photoUrl": "https://randomuser.me/api/portraits/women/44.jpg",
+    "photosUrls": [
+      {
+        "_key": "p1",
+        "url": "https://randomuser.me/api/portraits/women/44.jpg",
+        "alt": "Sophie photo 1"
+      },
+      {
+        "_key": "p2",
+        "url": "https://randomuser.me/api/portraits/women/45.jpg",
+        "alt": "Sophie photo 2"
+      },
+      {
+        "_key": "p3",
+        "url": "https://randomuser.me/api/portraits/women/46.jpg",
+        "alt": "Sophie photo 3"
+      }
+    ],
+    "tags": [
+      "Art",
+      "Voyage",
+      "Randonnée",
+      "Café",
+      "Vélo"
+    ],
+    "verifie": {
+      "photo": true,
+      "email": true,
+      "telephone": false,
+      "premium": true
+    },
+    "online": true,
+    "vedette": true,
+    "membreDepuis": "juin 2023",
+    "derniereActivite": "2 min",
+    "affiliateUrl": "https://example.com/?ref=sophie",
+    "ville": {
+      "_type": "reference",
+      "_ref": "ville-montreal"
+    },
+    "categorie": {
+      "_type": "reference",
+      "_ref": "categorie-serieux"
+    }
+  },
+  {
+    "_type": "profile",
+    "_id": "profile-emma-quebec",
+    "nom": "Emma",
+    "slug": {
+      "_type": "slug",
+      "current": "emma-quebec"
+    },
+    "age": 29,
+    "tagline": "Bibliothèque ambulante avec passion pour les voyages",
+    "bio": "Salut! Je suis Emma, spécialiste en communications dans le Vieux-Québec. Quand je ne travaille pas, je suis plongée dans un roman ou je planifie ma prochaine aventure.\n\nJ'adore les pique-niques improvisés sur les plaines, les petits restos cachés de la Basse-Ville. Je cherche quelqu'un avec un bon sens de l'humour et une âme curieuse.",
+    "photoUrl": "https://randomuser.me/api/portraits/women/22.jpg",
+    "photosUrls": [
+      {
+        "_key": "p1",
+        "url": "https://randomuser.me/api/portraits/women/22.jpg",
+        "alt": "Emma photo 1"
+      },
+      {
+        "_key": "p2",
+        "url": "https://randomuser.me/api/portraits/women/23.jpg",
+        "alt": "Emma photo 2"
+      }
+    ],
+    "tags": [
+      "Lecture",
+      "Voyage",
+      "Cuisine",
+      "Musique",
+      "Histoire"
+    ],
+    "verifie": {
+      "photo": true,
+      "email": true,
+      "telephone": false,
+      "premium": false
+    },
+    "online": true,
+    "vedette": true,
+    "membreDepuis": "sep. 2023",
+    "derniereActivite": "15 min",
+    "affiliateUrl": "https://example.com/?ref=emma",
+    "ville": {
+      "_type": "reference",
+      "_ref": "ville-quebec"
+    },
+    "categorie": {
+      "_type": "reference",
+      "_ref": "categorie-amitie"
+    }
+  },
+  {
+    "_type": "profile",
+    "_id": "profile-isabelle-laval",
+    "nom": "Isabelle",
+    "slug": {
+      "_type": "slug",
+      "current": "isabelle-laval"
+    },
+    "age": 24,
+    "tagline": "Libre et passionnée, prête pour l'aventure",
+    "bio": "Allo! Je suis Isabelle, instructrice de yoga à Laval. Ma vie, c'est l'équilibre entre l'énergie de la ville et la paix de la nature.\n\nJe cherche quelqu'un qui valorise la croissance personnelle, aime être présent, et n'a pas peur de danser sous la pluie!",
+    "photoUrl": "https://randomuser.me/api/portraits/women/63.jpg",
+    "photosUrls": [
+      {
+        "_key": "p1",
+        "url": "https://randomuser.me/api/portraits/women/63.jpg",
+        "alt": "Isabelle photo 1"
+      },
+      {
+        "_key": "p2",
+        "url": "https://randomuser.me/api/portraits/women/64.jpg",
+        "alt": "Isabelle photo 2"
+      },
+      {
+        "_key": "p3",
+        "url": "https://randomuser.me/api/portraits/women/65.jpg",
+        "alt": "Isabelle photo 3"
+      }
+    ],
+    "tags": [
+      "Yoga",
+      "Voyage",
+      "Art",
+      "Méditation",
+      "Nature"
+    ],
+    "verifie": {
+      "photo": true,
+      "email": true,
+      "telephone": true,
+      "premium": true
+    },
+    "online": true,
+    "vedette": true,
+    "membreDepuis": "jan. 2024",
+    "derniereActivite": "1 h",
+    "affiliateUrl": "https://example.com/?ref=isabelle",
+    "ville": {
+      "_type": "reference",
+      "_ref": "ville-laval"
+    },
+    "categorie": {
+      "_type": "reference",
+      "_ref": "categorie-aventure"
+    }
+  },
+  {
+    "_type": "profile",
+    "_id": "profile-camille-sherbrooke",
+    "nom": "Camille",
+    "slug": {
+      "_type": "slug",
+      "current": "camille-sherbrooke"
+    },
+    "age": 25,
+    "tagline": "Cuisinière, lectrice et romantique incurable",
+    "bio": "Salut! Je suis Camille, cheffe cuisinière à Sherbrooke. Je cuisine avec amour pour ma famille, mes amis, et bientôt pour quelqu'un de spécial.\n\nJe cherche quelqu'un qui apprécie les petites choses : un bon repas, un coucher de soleil, une conversation qui ne finit jamais.",
+    "photoUrl": "https://randomuser.me/api/portraits/women/68.jpg",
+    "photosUrls": [
+      {
+        "_key": "p1",
+        "url": "https://randomuser.me/api/portraits/women/68.jpg",
+        "alt": "Camille photo 1"
+      },
+      {
+        "_key": "p2",
+        "url": "https://randomuser.me/api/portraits/women/69.jpg",
+        "alt": "Camille photo 2"
+      }
+    ],
+    "tags": [
+      "Cuisine",
+      "Lecture",
+      "Jardinage",
+      "Vin",
+      "Cinéma"
+    ],
+    "verifie": {
+      "photo": true,
+      "email": true,
+      "telephone": false,
+      "premium": true
+    },
+    "online": true,
+    "vedette": true,
+    "membreDepuis": "mars 2024",
+    "derniereActivite": "8 min",
+    "affiliateUrl": "https://example.com/?ref=camille",
+    "ville": {
+      "_type": "reference",
+      "_ref": "ville-sherbrooke"
+    },
+    "categorie": {
+      "_type": "reference",
+      "_ref": "categorie-serieux"
+    }
+  },
+  {
+    "_type": "profile",
+    "_id": "profile-lea-longueuil",
+    "nom": "Léa",
+    "slug": {
+      "_type": "slug",
+      "current": "lea-longueuil"
+    },
+    "age": 27,
+    "tagline": "Cycliste, amoureuse des plantes et du jazz",
+    "bio": "Je suis Léa, enseignante à Longueuil. Je consacre mes étés à explorer les pistes cyclables du Québec et mes hivers à parfaire mes recettes.\n\nJ'adore les marchés fermiers, les soirées cinéma à la maison et les longues discussions autour d'un verre de vin.",
+    "photoUrl": "https://randomuser.me/api/portraits/women/5.jpg",
+    "photosUrls": [
+      {
+        "_key": "p1",
+        "url": "https://randomuser.me/api/portraits/women/5.jpg",
+        "alt": "Léa photo 1"
+      },
+      {
+        "_key": "p2",
+        "url": "https://randomuser.me/api/portraits/women/6.jpg",
+        "alt": "Léa photo 2"
+      }
+    ],
+    "tags": [
+      "Musique",
+      "Vélo",
+      "Cuisine",
+      "Cinéma",
+      "Plantes"
+    ],
+    "verifie": {
+      "photo": true,
+      "email": true,
+      "telephone": true,
+      "premium": false
+    },
+    "online": false,
+    "vedette": false,
+    "membreDepuis": "oct. 2023",
+    "derniereActivite": "3 h",
+    "affiliateUrl": "https://example.com/?ref=lea",
+    "ville": {
+      "_type": "reference",
+      "_ref": "ville-longueuil"
+    },
+    "categorie": {
+      "_type": "reference",
+      "_ref": "categorie-rencontre"
+    }
+  },
+  {
+    "_type": "profile",
+    "_id": "profile-mia-gatineau",
+    "nom": "Mia",
+    "slug": {
+      "_type": "slug",
+      "current": "mia-gatineau"
+    },
+    "age": 31,
+    "tagline": "Architecte, coureuse et grande aventurière",
+    "bio": "Coucou! Je suis Mia, architecte à Gatineau. Je cours des marathons le week-end et je dessine des bâtiments la semaine.\n\nJ'adore les sorties en kayak sur l'Outaouais et les randonnées dans le parc de la Gatineau. Je cherche quelqu'un d'actif et curieux.",
+    "photoUrl": "https://randomuser.me/api/portraits/women/33.jpg",
+    "photosUrls": [
+      {
+        "_key": "p1",
+        "url": "https://randomuser.me/api/portraits/women/33.jpg",
+        "alt": "Mia photo 1"
+      },
+      {
+        "_key": "p2",
+        "url": "https://randomuser.me/api/portraits/women/34.jpg",
+        "alt": "Mia photo 2"
+      }
+    ],
+    "tags": [
+      "Course",
+      "Kayak",
+      "Architecture",
+      "Randonnée",
+      "Voyages"
+    ],
+    "verifie": {
+      "photo": true,
+      "email": false,
+      "telephone": false,
+      "premium": false
+    },
+    "online": false,
+    "vedette": false,
+    "membreDepuis": "fév. 2024",
+    "derniereActivite": "6 h",
+    "affiliateUrl": "https://example.com/?ref=mia",
+    "ville": {
+      "_type": "reference",
+      "_ref": "ville-gatineau"
+    },
+    "categorie": {
+      "_type": "reference",
+      "_ref": "categorie-sport"
+    }
+  },
+  {
+    "_type": "profile",
+    "_id": "profile-julie-troisrivieres",
+    "nom": "Julie",
+    "slug": {
+      "_type": "slug",
+      "current": "julie-trois-rivieres"
+    },
+    "age": 32,
+    "tagline": "Photographe et exploratrice du monde",
+    "bio": "Bonjour! Je suis Julie, photographe freelance à Trois-Rivières. Mon appareil photo m'a emmenée sur tous les continents.\n\nJe cherche quelqu'un pour partager ces aventures — quelqu'un qui a envie de découvrir le monde avec les yeux grand ouverts.",
+    "photoUrl": "https://randomuser.me/api/portraits/women/12.jpg",
+    "photosUrls": [
+      {
+        "_key": "p1",
+        "url": "https://randomuser.me/api/portraits/women/12.jpg",
+        "alt": "Julie photo 1"
+      },
+      {
+        "_key": "p2",
+        "url": "https://randomuser.me/api/portraits/women/13.jpg",
+        "alt": "Julie photo 2"
+      }
+    ],
+    "tags": [
+      "Photographie",
+      "Voyage",
+      "Plein air",
+      "Cinéma",
+      "Cuisine du monde"
+    ],
+    "verifie": {
+      "photo": true,
+      "email": true,
+      "telephone": false,
+      "premium": false
+    },
+    "online": true,
+    "vedette": false,
+    "membreDepuis": "juil. 2023",
+    "derniereActivite": "30 min",
+    "affiliateUrl": "https://example.com/?ref=julie",
+    "ville": {
+      "_type": "reference",
+      "_ref": "ville-trois-rivieres"
+    },
+    "categorie": {
+      "_type": "reference",
+      "_ref": "categorie-voyage"
+    }
+  },
+  {
+    "_type": "profile",
+    "_id": "profile-marie-levis",
+    "nom": "Marie",
+    "slug": {
+      "_type": "slug",
+      "current": "marie-levis"
+    },
+    "age": 28,
+    "tagline": "Infirmière passionnée de plein air et de bonne bouffe",
+    "bio": "Allo! Je suis Marie, infirmière à Lévis. Mon métier m'a appris à valoriser chaque moment et chaque connexion humaine.\n\nJe suis une passionnée de plein air : ski en hiver, kayak en été. La bonne bouffe québécoise et les soirées en bonne compagnie, c'est ma vie.",
+    "photoUrl": "https://randomuser.me/api/portraits/women/18.jpg",
+    "photosUrls": [
+      {
+        "_key": "p1",
+        "url": "https://randomuser.me/api/portraits/women/18.jpg",
+        "alt": "Marie photo 1"
+      },
+      {
+        "_key": "p2",
+        "url": "https://randomuser.me/api/portraits/women/19.jpg",
+        "alt": "Marie photo 2"
+      }
+    ],
+    "tags": [
+      "Plein air",
+      "Ski",
+      "Cuisine",
+      "Santé",
+      "Famille"
+    ],
+    "verifie": {
+      "photo": true,
+      "email": true,
+      "telephone": true,
+      "premium": true
+    },
+    "online": false,
+    "vedette": false,
+    "membreDepuis": "nov. 2023",
+    "derniereActivite": "45 min",
+    "affiliateUrl": "https://example.com/?ref=marie",
+    "ville": {
+      "_type": "reference",
+      "_ref": "ville-levis"
+    },
+    "categorie": {
+      "_type": "reference",
+      "_ref": "categorie-amitie"
+    }
+  },
+  {
+    "_type": "profile",
+    "_id": "profile-claudia-saguenay",
+    "nom": "Claudia",
+    "slug": {
+      "_type": "slug",
+      "current": "claudia-saguenay"
+    },
+    "age": 30,
+    "tagline": "Amante de la nature, du rock et des soirées autour du feu",
+    "bio": "Salut! Je suis Claudia, enseignante au Saguenay. J'adore les grands espaces, les lacs cristallins et les nuits à contempler les étoiles.\n\nSi vous aimez les soirées autour du feu, les randonnées dans les parcs nationaux et les longues conversations — on va s'entendre!",
+    "photoUrl": "https://randomuser.me/api/portraits/women/55.jpg",
+    "photosUrls": [
+      {
+        "_key": "p1",
+        "url": "https://randomuser.me/api/portraits/women/55.jpg",
+        "alt": "Claudia photo 1"
+      },
+      {
+        "_key": "p2",
+        "url": "https://randomuser.me/api/portraits/women/56.jpg",
+        "alt": "Claudia photo 2"
+      }
+    ],
+    "tags": [
+      "Nature",
+      "Musique",
+      "Randonnée",
+      "Canot",
+      "Photographie"
+    ],
+    "verifie": {
+      "photo": true,
+      "email": true,
+      "telephone": false,
+      "premium": false
+    },
+    "online": false,
+    "vedette": false,
+    "membreDepuis": "août 2023",
+    "derniereActivite": "2 h",
+    "affiliateUrl": "https://example.com/?ref=claudia",
+    "ville": {
+      "_type": "reference",
+      "_ref": "ville-saguenay"
+    },
+    "categorie": {
+      "_type": "reference",
+      "_ref": "categorie-aventure"
+    }
+  },
+  {
+    "_type": "profile",
+    "_id": "profile-noemie-montreal",
+    "nom": "Noémie",
+    "slug": {
+      "_type": "slug",
+      "current": "noemie-montreal"
+    },
+    "age": 23,
+    "tagline": "Étudiante en design, amoureuse des musées et du vélo",
+    "bio": "Hey! Je suis Noémie, étudiante en design industriel à l'UQAM. Je vis pour créer, explorer et me surprendre.\n\nMes week-ends : expo au Musée des Beaux-Arts, brunch dans Rosemont, siestes dans le parc La Fontaine. Je cherche quelqu'un de spontané et créatif.",
+    "photoUrl": "https://randomuser.me/api/portraits/women/77.jpg",
+    "photosUrls": [
+      {
+        "_key": "p1",
+        "url": "https://randomuser.me/api/portraits/women/77.jpg",
+        "alt": "Noémie photo 1"
+      },
+      {
+        "_key": "p2",
+        "url": "https://randomuser.me/api/portraits/women/78.jpg",
+        "alt": "Noémie photo 2"
+      }
+    ],
+    "tags": [
+      "Design",
+      "Art",
+      "Musées",
+      "Brunch",
+      "Vélo"
+    ],
+    "verifie": {
+      "photo": false,
+      "email": true,
+      "telephone": false,
+      "premium": false
+    },
+    "online": true,
+    "vedette": false,
+    "membreDepuis": "jan. 2025",
+    "derniereActivite": "5 min",
+    "affiliateUrl": "https://example.com/?ref=noemie",
+    "ville": {
+      "_type": "reference",
+      "_ref": "ville-montreal"
+    },
+    "categorie": {
+      "_type": "reference",
+      "_ref": "categorie-rencontre"
+    }
+  },
+  {
+    "_type": "profile",
+    "_id": "profile-vanessa-laval",
+    "nom": "Vanessa",
+    "slug": {
+      "_type": "slug",
+      "current": "vanessa-laval"
+    },
+    "age": 34,
+    "tagline": "Maman de deux chats et grande amoureuse de la vie",
+    "bio": "Bonjour! Je suis Vanessa, comptable à Laval. J'ai deux chats qui dirigent ma vie et une passion dévorante pour les bouquins.\n\nJe cherche quelqu'un de mature, attentionné et capable d'aimer inconditionnellement — les chats inclus!",
+    "photoUrl": "https://randomuser.me/api/portraits/women/38.jpg",
+    "photosUrls": [
+      {
+        "_key": "p1",
+        "url": "https://randomuser.me/api/portraits/women/38.jpg",
+        "alt": "Vanessa photo 1"
+      },
+      {
+        "_key": "p2",
+        "url": "https://randomuser.me/api/portraits/women/39.jpg",
+        "alt": "Vanessa photo 2"
+      }
+    ],
+    "tags": [
+      "Chats",
+      "Lecture",
+      "Yoga",
+      "Cinéma",
+      "Gastronomie"
+    ],
+    "verifie": {
+      "photo": true,
+      "email": true,
+      "telephone": true,
+      "premium": true
+    },
+    "online": true,
+    "vedette": false,
+    "membreDepuis": "avr. 2023",
+    "derniereActivite": "20 min",
+    "affiliateUrl": "https://example.com/?ref=vanessa",
+    "ville": {
+      "_type": "reference",
+      "_ref": "ville-laval"
+    },
+    "categorie": {
+      "_type": "reference",
+      "_ref": "categorie-serieux"
+    }
+  },
+  {
+    "_type": "profile",
+    "_id": "profile-sarah-montreal",
+    "nom": "Sarah",
+    "slug": {
+      "_type": "slug",
+      "current": "sarah-montreal"
+    },
+    "age": 27,
+    "tagline": "Juriste le jour, voyageuse le week-end",
+    "bio": "Salut! Je suis Sarah, avocate dans le Vieux-Montréal. Ma vie est rythmée par les dossiers en semaine et les escapades le week-end.\n\nJ'ai visité 32 pays et il m'en reste beaucoup à découvrir. Je cherche un compagnon d'aventure.",
+    "photoUrl": "https://randomuser.me/api/portraits/women/90.jpg",
+    "photosUrls": [
+      {
+        "_key": "p1",
+        "url": "https://randomuser.me/api/portraits/women/90.jpg",
+        "alt": "Sarah photo 1"
+      },
+      {
+        "_key": "p2",
+        "url": "https://randomuser.me/api/portraits/women/91.jpg",
+        "alt": "Sarah photo 2"
+      }
+    ],
+    "tags": [
+      "Droit",
+      "Voyages",
+      "Gastronomie",
+      "Langues",
+      "Photographie"
+    ],
+    "verifie": {
+      "photo": true,
+      "email": true,
+      "telephone": true,
+      "premium": false
+    },
+    "online": false,
+    "vedette": false,
+    "membreDepuis": "mai 2024",
+    "derniereActivite": "1 h",
+    "affiliateUrl": "https://example.com/?ref=sarah",
+    "ville": {
+      "_type": "reference",
+      "_ref": "ville-montreal"
+    },
+    "categorie": {
+      "_type": "reference",
+      "_ref": "categorie-voyage"
+    }
+  },
+  {
+    "_type": "profile",
+    "_id": "profile-amelie-montreal-101",
+    "slug": {
+      "_type": "slug",
+      "current": "amelie-montreal-101"
+    },
+    "nom": "Amélie",
+    "age": 27,
+    "tagline": "Passionnée de cinéma indé et de balades dans le Vieux-Montréal",
+    "bio": "Salut! Je suis Amélie, chargée de projet dans le Mile End. Je passe mes soirées dans les petites salles de cinéma ou à explorer les restos cachés de la ville.\n\nJ'aime les conversations qui durent jusqu'à minuit, les marchés du week-end et les gens qui ont des opinions sur tout. Je cherche quelqu'un d'ouvert d'esprit et authentique.\n\nSi vous aimez l'art, la bonne bouffe et les balades sans destination fixe, on va s'entendre!",
+    "photoUrl": "https://randomuser.me/api/portraits/women/52.jpg",
+    "photosUrls": [
+      {
+        "_key": "p1",
+        "url": "https://randomuser.me/api/portraits/women/52.jpg"
+      },
+      {
+        "_key": "p2",
+        "url": "https://randomuser.me/api/portraits/women/53.jpg"
+      },
+      {
+        "_key": "p3",
+        "url": "https://randomuser.me/api/portraits/women/54.jpg"
+      }
+    ],
+    "tags": [
+      "Cinéma",
+      "Art",
+      "Cuisine",
+      "Vélo",
+      "Voyage"
+    ],
+    "verifie": {
+      "photo": true,
+      "email": true,
+      "telephone": false,
+      "premium": false
+    },
+    "online": true,
+    "vedette": true,
+    "membreDepuis": "mars 2024",
+    "derniereActivite": "10 min",
+    "affiliateUrl": "https://example.com/?ref=amelie",
+    "ville": {
+      "_type": "reference",
+      "_ref": "ville-montreal"
+    },
+    "categorie": {
+      "_type": "reference",
+      "_ref": "categorie-serieux"
+    }
+  },
+  {
+    "_type": "profile",
+    "_id": "profile-chloe-montreal-102",
+    "slug": {
+      "_type": "slug",
+      "current": "chloe-montreal-102"
+    },
+    "nom": "Chloé",
+    "age": 24,
+    "tagline": "Danseuse et amoureuse des nuits montréalaises",
+    "bio": "Allo! Je suis Chloé, étudiante en danse contemporaine à l'UQAM. La musique est ma langue maternelle et la scène est ma maison.\n\nEn dehors des studios de danse, vous me trouverez dans les petits bars de jazz de la rue Saint-Laurent ou à faire du patin sur le canal Lachine en hiver.\n\nJe cherche quelqu'un de spontané, créatif, qui n'a pas peur de danser comme si personne ne regardait!",
+    "photoUrl": "https://randomuser.me/api/portraits/women/28.jpg",
+    "photosUrls": [
+      {
+        "_key": "p1",
+        "url": "https://randomuser.me/api/portraits/women/28.jpg"
+      },
+      {
+        "_key": "p2",
+        "url": "https://randomuser.me/api/portraits/women/29.jpg"
+      }
+    ],
+    "tags": [
+      "Danse",
+      "Musique",
+      "Jazz",
+      "Patin",
+      "Art"
+    ],
+    "verifie": {
+      "photo": true,
+      "email": true,
+      "telephone": false,
+      "premium": true
+    },
+    "online": true,
+    "vedette": true,
+    "membreDepuis": "jan. 2025",
+    "derniereActivite": "2 min",
+    "affiliateUrl": "https://example.com/?ref=chloe",
+    "ville": {
+      "_type": "reference",
+      "_ref": "ville-montreal"
+    },
+    "categorie": {
+      "_type": "reference",
+      "_ref": "categorie-aventure"
+    }
+  },
+  {
+    "_type": "profile",
+    "_id": "profile-laurie-montreal-103",
+    "slug": {
+      "_type": "slug",
+      "current": "laurie-montreal-103"
+    },
+    "nom": "Laurie",
+    "age": 32,
+    "tagline": "Médecin de jour, exploratrice de quartiers le week-end",
+    "bio": "Bonjour! Je suis Laurie, médecin résidente à l'Hôpital Général de Montréal. Mon travail m'a appris à apprécier chaque moment de liberté.\n\nMes week-ends : brunch dans Rosemont, expo au MAC, balade à vélo le long du Saint-Laurent. J'adore voyager — j'ai visité 18 pays jusqu'à maintenant.\n\nJe cherche quelqu'un de mature, drôle et curieux du monde.",
+    "photoUrl": "https://randomuser.me/api/portraits/women/61.jpg",
+    "photosUrls": [
+      {
+        "_key": "p1",
+        "url": "https://randomuser.me/api/portraits/women/61.jpg"
+      },
+      {
+        "_key": "p2",
+        "url": "https://randomuser.me/api/portraits/women/62.jpg"
+      }
+    ],
+    "tags": [
+      "Médecine",
+      "Voyage",
+      "Vélo",
+      "Gastronomie",
+      "Musées"
+    ],
+    "verifie": {
+      "photo": true,
+      "email": true,
+      "telephone": true,
+      "premium": true
+    },
+    "online": false,
+    "vedette": true,
+    "membreDepuis": "oct. 2023",
+    "derniereActivite": "3 h",
+    "affiliateUrl": "https://example.com/?ref=laurie",
+    "ville": {
+      "_type": "reference",
+      "_ref": "ville-montreal"
+    },
+    "categorie": {
+      "_type": "reference",
+      "_ref": "categorie-serieux"
+    }
+  },
+  {
+    "_type": "profile",
+    "_id": "profile-jessica-montreal-104",
+    "slug": {
+      "_type": "slug",
+      "current": "jessica-montreal-104"
+    },
+    "nom": "Jessica",
+    "age": 29,
+    "tagline": "Chef pâtissière — je cuisine l'amour au sens littéral",
+    "bio": "Hey! Je suis Jessica, chef pâtissière dans un bistro du Plateau. Mon métier c'est de rendre les gens heureux avec mes créations.\n\nJe cherche quelqu'un qui apprécie les petits plaisirs : une bonne tarte, une balade dans le parc La Fontaine, un verre de vin en regardant le coucher du soleil sur la montagne.\n\nBonus si vous aimez goûter mes nouvelles recettes!",
+    "photoUrl": "https://randomuser.me/api/portraits/women/71.jpg",
+    "photosUrls": [
+      {
+        "_key": "p1",
+        "url": "https://randomuser.me/api/portraits/women/71.jpg"
+      },
+      {
+        "_key": "p2",
+        "url": "https://randomuser.me/api/portraits/women/72.jpg"
+      },
+      {
+        "_key": "p3",
+        "url": "https://randomuser.me/api/portraits/women/73.jpg"
+      }
+    ],
+    "tags": [
+      "Pâtisserie",
+      "Cuisine",
+      "Vin",
+      "Nature",
+      "Lecture"
+    ],
+    "verifie": {
+      "photo": true,
+      "email": true,
+      "telephone": false,
+      "premium": false
+    },
+    "online": true,
+    "vedette": false,
+    "membreDepuis": "juin 2024",
+    "derniereActivite": "25 min",
+    "affiliateUrl": "https://example.com/?ref=jessica",
+    "ville": {
+      "_type": "reference",
+      "_ref": "ville-montreal"
+    },
+    "categorie": {
+      "_type": "reference",
+      "_ref": "categorie-rencontre"
+    }
+  },
+  {
+    "_type": "profile",
+    "_id": "profile-stephanie-montreal-105",
+    "slug": {
+      "_type": "slug",
+      "current": "stephanie-montreal-105"
+    },
+    "nom": "Stéphanie",
+    "age": 35,
+    "tagline": "Avocate le jour, randonneuse le week-end",
+    "bio": "Bonjour! Je suis Stéphanie, avocate spécialisée en droit environnemental. Je me bats pour la planète dans la salle de tribunal et je la protège en randonnant dans ses forêts.\n\nJ'ai deux chats (Oscar et Mimi) qui codirigent ma vie. Je cherche quelqu'un qui aime autant les grands espaces que les soirées cozy à la maison.",
+    "photoUrl": "https://randomuser.me/api/portraits/women/48.jpg",
+    "photosUrls": [
+      {
+        "_key": "p1",
+        "url": "https://randomuser.me/api/portraits/women/48.jpg"
+      },
+      {
+        "_key": "p2",
+        "url": "https://randomuser.me/api/portraits/women/49.jpg"
+      }
+    ],
+    "tags": [
+      "Droit",
+      "Randonnée",
+      "Chats",
+      "Environnement",
+      "Lecture"
+    ],
+    "verifie": {
+      "photo": true,
+      "email": true,
+      "telephone": true,
+      "premium": false
+    },
+    "online": false,
+    "vedette": false,
+    "membreDepuis": "sept. 2023",
+    "derniereActivite": "1 jour",
+    "affiliateUrl": "https://example.com/?ref=stephanie",
+    "ville": {
+      "_type": "reference",
+      "_ref": "ville-montreal"
+    },
+    "categorie": {
+      "_type": "reference",
+      "_ref": "categorie-serieux"
+    }
+  },
+  {
+    "_type": "profile",
+    "_id": "profile-anna-montreal-106",
+    "slug": {
+      "_type": "slug",
+      "current": "anna-montreal-106"
+    },
+    "nom": "Anna",
+    "age": 22,
+    "tagline": "Photographe, voyageuse et adepte de café oat milk",
+    "bio": "Hey! Je suis Anna, photographe freelance qui capture la beauté des gens ordinaires. J'ai grandi à Montréal et j'adore cette ville.\n\nMon appareil photo est toujours avec moi. Mes photos préférées? Les gens qui rient vraiment, les rues mouillées après la pluie, les marchés colorés.\n\nJe cherche quelqu'un d'authentique avec qui partager de vraies aventures.",
+    "photoUrl": "https://randomuser.me/api/portraits/women/83.jpg",
+    "photosUrls": [
+      {
+        "_key": "p1",
+        "url": "https://randomuser.me/api/portraits/women/83.jpg"
+      },
+      {
+        "_key": "p2",
+        "url": "https://randomuser.me/api/portraits/women/84.jpg"
+      }
+    ],
+    "tags": [
+      "Photographie",
+      "Café",
+      "Voyage",
+      "Art de rue",
+      "Mode"
+    ],
+    "verifie": {
+      "photo": false,
+      "email": true,
+      "telephone": false,
+      "premium": false
+    },
+    "online": true,
+    "vedette": false,
+    "membreDepuis": "fév. 2025",
+    "derniereActivite": "45 min",
+    "affiliateUrl": "https://example.com/?ref=anna",
+    "ville": {
+      "_type": "reference",
+      "_ref": "ville-montreal"
+    },
+    "categorie": {
+      "_type": "reference",
+      "_ref": "categorie-amitie"
+    }
+  },
+  {
+    "_type": "profile",
+    "_id": "profile-beatrice-quebec-201",
+    "slug": {
+      "_type": "slug",
+      "current": "beatrice-quebec-201"
+    },
+    "nom": "Béatrice",
+    "age": 30,
+    "tagline": "Historienne et amoureuse du Vieux-Québec",
+    "bio": "Bonjour! Je suis Béatrice, historienne au Musée de la Civilisation. Je vis et respire l'histoire de cette belle ville.\n\nMes matins : café sur les plaines d'Abraham avec vue sur le fleuve. Mes soirs : bons restaurants de la Haute-Ville ou soirées jazz dans les petits bars de la Basse-Ville.\n\nJe cherche quelqu'un de cultivé, curieux, qui voit la beauté dans les vieilles pierres et les nouvelles idées.",
+    "photoUrl": "https://randomuser.me/api/portraits/women/36.jpg",
+    "photosUrls": [
+      {
+        "_key": "p1",
+        "url": "https://randomuser.me/api/portraits/women/36.jpg"
+      },
+      {
+        "_key": "p2",
+        "url": "https://randomuser.me/api/portraits/women/37.jpg"
+      }
+    ],
+    "tags": [
+      "Histoire",
+      "Musées",
+      "Jazz",
+      "Lecture",
+      "Gastronomie"
+    ],
+    "verifie": {
+      "photo": true,
+      "email": true,
+      "telephone": false,
+      "premium": true
+    },
+    "online": true,
+    "vedette": true,
+    "membreDepuis": "mai 2024",
+    "derniereActivite": "8 min",
+    "affiliateUrl": "https://example.com/?ref=beatrice",
+    "ville": {
+      "_type": "reference",
+      "_ref": "ville-quebec"
+    },
+    "categorie": {
+      "_type": "reference",
+      "_ref": "categorie-serieux"
+    }
+  },
+  {
+    "_type": "profile",
+    "_id": "profile-florence-quebec-202",
+    "slug": {
+      "_type": "slug",
+      "current": "florence-quebec-202"
+    },
+    "nom": "Florence",
+    "age": 26,
+    "tagline": "Architecte paysagiste — je dessine des jardins et je rêve en grand",
+    "bio": "Salut! Je suis Florence, architecte paysagiste à Québec. Mon travail consiste à transformer des espaces verts en lieux de vie magnifiques.\n\nJ'adore les sorties en kayak sur le Saint-Laurent, les randonnées dans Charlevoix et les marchés de producteurs locaux.\n\nJe cherche quelqu'un d'actif qui partage mon amour de la nature et des saisons québécoises.",
+    "photoUrl": "https://randomuser.me/api/portraits/women/41.jpg",
+    "photosUrls": [
+      {
+        "_key": "p1",
+        "url": "https://randomuser.me/api/portraits/women/41.jpg"
+      },
+      {
+        "_key": "p2",
+        "url": "https://randomuser.me/api/portraits/women/42.jpg"
+      },
+      {
+        "_key": "p3",
+        "url": "https://randomuser.me/api/portraits/women/43.jpg"
+      }
+    ],
+    "tags": [
+      "Architecture",
+      "Nature",
+      "Kayak",
+      "Randonnée",
+      "Jardinage"
+    ],
+    "verifie": {
+      "photo": true,
+      "email": true,
+      "telephone": true,
+      "premium": false
+    },
+    "online": false,
+    "vedette": false,
+    "membreDepuis": "août 2024",
+    "derniereActivite": "2 h",
+    "affiliateUrl": "https://example.com/?ref=florence",
+    "ville": {
+      "_type": "reference",
+      "_ref": "ville-quebec"
+    },
+    "categorie": {
+      "_type": "reference",
+      "_ref": "categorie-aventure"
+    }
+  },
+  {
+    "_type": "profile",
+    "_id": "profile-genevieve-quebec-203",
+    "slug": {
+      "_type": "slug",
+      "current": "genevieve-quebec-203"
+    },
+    "nom": "Geneviève",
+    "age": 34,
+    "tagline": "Professeure de yoga et grande amoureuse du silence",
+    "bio": "Allo! Je suis Geneviève, professeure de yoga et de méditation à Québec. J'enseigne l'art de ralentir dans un monde qui va trop vite.\n\nEn dehors du studio, je fais de la raquette en hiver, du paddleboard en été, et je lis beaucoup en automne.\n\nJe cherche quelqu'un de présent, attentionné, qui valorise la profondeur dans les relations.",
+    "photoUrl": "https://randomuser.me/api/portraits/women/57.jpg",
+    "photosUrls": [
+      {
+        "_key": "p1",
+        "url": "https://randomuser.me/api/portraits/women/57.jpg"
+      },
+      {
+        "_key": "p2",
+        "url": "https://randomuser.me/api/portraits/women/58.jpg"
+      }
+    ],
+    "tags": [
+      "Yoga",
+      "Méditation",
+      "Plein air",
+      "Lecture",
+      "Santé"
+    ],
+    "verifie": {
+      "photo": true,
+      "email": true,
+      "telephone": false,
+      "premium": true
+    },
+    "online": true,
+    "vedette": false,
+    "membreDepuis": "déc. 2023",
+    "derniereActivite": "1 h",
+    "affiliateUrl": "https://example.com/?ref=genevieve",
+    "ville": {
+      "_type": "reference",
+      "_ref": "ville-quebec"
+    },
+    "categorie": {
+      "_type": "reference",
+      "_ref": "categorie-serieux"
+    }
+  },
+  {
+    "_type": "profile",
+    "_id": "profile-alice-laval-204",
+    "slug": {
+      "_type": "slug",
+      "current": "alice-laval-204"
+    },
+    "nom": "Alice",
+    "age": 28,
+    "tagline": "Ingénieure le jour, pianiste le soir",
+    "bio": "Bonjour! Je suis Alice, ingénieure civile à Laval. J'aime la précision dans mon travail et la liberté dans ma musique.\n\nJe joue du piano depuis l'âge de 6 ans. Les soirs de semaine, vous me trouvez au piano. Les week-ends, à explorer les parcs de Laval à vélo.\n\nJe cherche quelqu'un qui comprend que je peux aimer à la fois les équations et Chopin.",
+    "photoUrl": "https://randomuser.me/api/portraits/women/16.jpg",
+    "photosUrls": [
+      {
+        "_key": "p1",
+        "url": "https://randomuser.me/api/portraits/women/16.jpg"
+      },
+      {
+        "_key": "p2",
+        "url": "https://randomuser.me/api/portraits/women/17.jpg"
+      }
+    ],
+    "tags": [
+      "Piano",
+      "Ingénierie",
+      "Vélo",
+      "Cinéma",
+      "Sciences"
+    ],
+    "verifie": {
+      "photo": true,
+      "email": true,
+      "telephone": true,
+      "premium": false
+    },
+    "online": true,
+    "vedette": true,
+    "membreDepuis": "juil. 2024",
+    "derniereActivite": "15 min",
+    "affiliateUrl": "https://example.com/?ref=alice",
+    "ville": {
+      "_type": "reference",
+      "_ref": "ville-laval"
+    },
+    "categorie": {
+      "_type": "reference",
+      "_ref": "categorie-serieux"
+    }
+  },
+  {
+    "_type": "profile",
+    "_id": "profile-patricia-laval-205",
+    "slug": {
+      "_type": "slug",
+      "current": "patricia-laval-205"
+    },
+    "nom": "Patricia",
+    "age": 33,
+    "tagline": "Maman solo de deux garçons, cherche l'amour pour vrai",
+    "bio": "Salut! Je suis Patricia, comptable à Laval et maman de deux garçons merveilleux de 6 et 9 ans.\n\nMa vie est bien remplie mais il manque quelque chose. Je cherche un homme patient, stable, qui comprend que les enfants passent en premier mais que l'amour peut quand même trouver sa place.\n\nSi vous êtes sincère et cherchez une vraie relation, on a quelque chose à se dire.",
+    "photoUrl": "https://randomuser.me/api/portraits/women/24.jpg",
+    "photosUrls": [
+      {
+        "_key": "p1",
+        "url": "https://randomuser.me/api/portraits/women/24.jpg"
+      },
+      {
+        "_key": "p2",
+        "url": "https://randomuser.me/api/portraits/women/25.jpg"
+      }
+    ],
+    "tags": [
+      "Famille",
+      "Cuisine",
+      "Jardinage",
+      "Lecture",
+      "Natation"
+    ],
+    "verifie": {
+      "photo": true,
+      "email": true,
+      "telephone": true,
+      "premium": true
+    },
+    "online": false,
+    "vedette": false,
+    "membreDepuis": "nov. 2024",
+    "derniereActivite": "4 h",
+    "affiliateUrl": "https://example.com/?ref=patricia",
+    "ville": {
+      "_type": "reference",
+      "_ref": "ville-laval"
+    },
+    "categorie": {
+      "_type": "reference",
+      "_ref": "categorie-serieux"
+    }
+  },
+  {
+    "_type": "profile",
+    "_id": "profile-kim-laval-206",
+    "slug": {
+      "_type": "slug",
+      "current": "kim-laval-206"
+    },
+    "nom": "Kim",
+    "age": 23,
+    "tagline": "Coiffeuse créative avec le coeur grand comme le monde",
+    "bio": "Hey! Je suis Kim, coiffeuse et coloriste à Laval. Je transforme les gens de l'extérieur, j'espère que quelqu'un transformera mon intérieur!\n\nJ'adore les soirées entre amis, les brunchs du dimanche et regarder des séries jusqu'à trop tard. Je suis spontanée, un peu maladroite, très sincère.\n\nJe cherche quelqu'un de vrai, pas parfait mais honnête.",
+    "photoUrl": "https://randomuser.me/api/portraits/women/7.jpg",
+    "photosUrls": [
+      {
+        "_key": "p1",
+        "url": "https://randomuser.me/api/portraits/women/7.jpg"
+      },
+      {
+        "_key": "p2",
+        "url": "https://randomuser.me/api/portraits/women/8.jpg"
+      }
+    ],
+    "tags": [
+      "Mode",
+      "Coiffure",
+      "Séries",
+      "Brunch",
+      "Amis"
+    ],
+    "verifie": {
+      "photo": false,
+      "email": true,
+      "telephone": false,
+      "premium": false
+    },
+    "online": true,
+    "vedette": false,
+    "membreDepuis": "janv. 2025",
+    "derniereActivite": "20 min",
+    "affiliateUrl": "https://example.com/?ref=kim",
+    "ville": {
+      "_type": "reference",
+      "_ref": "ville-laval"
+    },
+    "categorie": {
+      "_type": "reference",
+      "_ref": "categorie-rencontre"
+    }
+  },
+  {
+    "_type": "profile",
+    "_id": "profile-rachel-gatineau-301",
+    "slug": {
+      "_type": "slug",
+      "current": "rachel-gatineau-301"
+    },
+    "nom": "Rachel",
+    "age": 29,
+    "tagline": "Fonctionnaire fédérale et coureuse de sentiers",
+    "bio": "Bonjour! Je suis Rachel, analyste de politiques à Ottawa, mais je vis du côté québécois à Gatineau parce que j'aime mieux notre côté de la rivière!\n\nJe cours des trails dans le parc de la Gatineau tous les week-ends et je fais du ski de fond en hiver. J'aime aussi beaucoup la politique (impossible d'y échapper avec mon boulot) et j'adore en discuter autour d'un verre.\n\nJe cherche quelqu'un d'intellectuellement curieux et physiquement actif.",
+    "photoUrl": "https://randomuser.me/api/portraits/women/31.jpg",
+    "photosUrls": [
+      {
+        "_key": "p1",
+        "url": "https://randomuser.me/api/portraits/women/31.jpg"
+      },
+      {
+        "_key": "p2",
+        "url": "https://randomuser.me/api/portraits/women/32.jpg"
+      }
+    ],
+    "tags": [
+      "Course",
+      "Ski",
+      "Politique",
+      "Nature",
+      "Voyages"
+    ],
+    "verifie": {
+      "photo": true,
+      "email": true,
+      "telephone": false,
+      "premium": false
+    },
+    "online": true,
+    "vedette": false,
+    "membreDepuis": "avr. 2024",
+    "derniereActivite": "35 min",
+    "affiliateUrl": "https://example.com/?ref=rachel",
+    "ville": {
+      "_type": "reference",
+      "_ref": "ville-gatineau"
+    },
+    "categorie": {
+      "_type": "reference",
+      "_ref": "categorie-sport"
+    }
+  },
+  {
+    "_type": "profile",
+    "_id": "profile-isabeau-gatineau-302",
+    "slug": {
+      "_type": "slug",
+      "current": "isabeau-gatineau-302"
+    },
+    "nom": "Isabeau",
+    "age": 31,
+    "tagline": "Artiste peintre qui cherche son inspiration… et peut-être plus",
+    "bio": "Allo! Je suis Isabeau, artiste peintre et enseignante en arts à Gatineau. Mon atelier ressemble à un beau chaos coloré.\n\nJ'expose mes toiles dans des galeries de la région et je donne des ateliers d'art le week-end pour enfants. J'aime les musées, le kayak, les pique-niques improvisés et les conversations qui n'en finissent plus.\n\nJe cherche quelqu'un qui ne voit pas la vie en gris.",
+    "photoUrl": "https://randomuser.me/api/portraits/women/66.jpg",
+    "photosUrls": [
+      {
+        "_key": "p1",
+        "url": "https://randomuser.me/api/portraits/women/66.jpg"
+      },
+      {
+        "_key": "p2",
+        "url": "https://randomuser.me/api/portraits/women/67.jpg"
+      }
+    ],
+    "tags": [
+      "Peinture",
+      "Art",
+      "Kayak",
+      "Enseignement",
+      "Musées"
+    ],
+    "verifie": {
+      "photo": true,
+      "email": false,
+      "telephone": false,
+      "premium": false
+    },
+    "online": false,
+    "vedette": false,
+    "membreDepuis": "sept. 2024",
+    "derniereActivite": "1 jour",
+    "affiliateUrl": "https://example.com/?ref=isabeau",
+    "ville": {
+      "_type": "reference",
+      "_ref": "ville-gatineau"
+    },
+    "categorie": {
+      "_type": "reference",
+      "_ref": "categorie-amitie"
+    }
+  },
+  {
+    "_type": "profile",
+    "_id": "profile-marianne-sherbrooke-303",
+    "slug": {
+      "_type": "slug",
+      "current": "marianne-sherbrooke-303"
+    },
+    "nom": "Marianne",
+    "age": 27,
+    "tagline": "Étudiante au doctorat en biologie — je sauve les abeilles",
+    "bio": "Salut! Je suis Marianne, doctorante en biologie à l'Université de Sherbrooke. Mon sujet de recherche : les pollinisateurs et l'agriculture durable. Oui, je sauve littéralement les abeilles!\n\nEn dehors du labo, j'adore les randonnées dans les Cantons-de-l'Est, les marchés bio et cuisiner végétarien.\n\nJe cherche quelqu'un qui comprend ma passion pour la science et le monde vivant.",
+    "photoUrl": "https://randomuser.me/api/portraits/women/10.jpg",
+    "photosUrls": [
+      {
+        "_key": "p1",
+        "url": "https://randomuser.me/api/portraits/women/10.jpg"
+      },
+      {
+        "_key": "p2",
+        "url": "https://randomuser.me/api/portraits/women/11.jpg"
+      }
+    ],
+    "tags": [
+      "Sciences",
+      "Randonnée",
+      "Végétarien",
+      "Nature",
+      "Recherche"
+    ],
+    "verifie": {
+      "photo": true,
+      "email": true,
+      "telephone": false,
+      "premium": false
+    },
+    "online": true,
+    "vedette": false,
+    "membreDepuis": "mars 2025",
+    "derniereActivite": "50 min",
+    "affiliateUrl": "https://example.com/?ref=marianne",
+    "ville": {
+      "_type": "reference",
+      "_ref": "ville-sherbrooke"
+    },
+    "categorie": {
+      "_type": "reference",
+      "_ref": "categorie-serieux"
+    }
+  },
+  {
+    "_type": "profile",
+    "_id": "profile-sandrine-sherbrooke-304",
+    "slug": {
+      "_type": "slug",
+      "current": "sandrine-sherbrooke-304"
+    },
+    "nom": "Sandrine",
+    "age": 36,
+    "tagline": "Directrice d'école et maman de deux ados — la vie est belle",
+    "bio": "Bonjour! Je suis Sandrine, directrice d'école primaire à Sherbrooke. J'ai deux adolescents formidables et une vie bien remplie.\n\nJ'adore le théâtre, les escapades à la mer, les bons romans et le vin rouge. J'ai recommencé à voyager depuis que mes enfants sont grands.\n\nJe cherche quelqu'un d'établi dans la vie, qui cherche une relation sérieuse et durable.",
+    "photoUrl": "https://randomuser.me/api/portraits/women/79.jpg",
+    "photosUrls": [
+      {
+        "_key": "p1",
+        "url": "https://randomuser.me/api/portraits/women/79.jpg"
+      },
+      {
+        "_key": "p2",
+        "url": "https://randomuser.me/api/portraits/women/80.jpg"
+      }
+    ],
+    "tags": [
+      "Théâtre",
+      "Voyage",
+      "Lecture",
+      "Vin",
+      "Éducation"
+    ],
+    "verifie": {
+      "photo": true,
+      "email": true,
+      "telephone": true,
+      "premium": true
+    },
+    "online": false,
+    "vedette": false,
+    "membreDepuis": "oct. 2024",
+    "derniereActivite": "5 h",
+    "affiliateUrl": "https://example.com/?ref=sandrine",
+    "ville": {
+      "_type": "reference",
+      "_ref": "ville-sherbrooke"
+    },
+    "categorie": {
+      "_type": "reference",
+      "_ref": "categorie-serieux"
+    }
+  },
+  {
+    "_type": "profile",
+    "_id": "profile-elodie-troisrivieres-305",
+    "slug": {
+      "_type": "slug",
+      "current": "elodie-troisrivieres-305"
+    },
+    "nom": "Élodie",
+    "age": 25,
+    "tagline": "Journaliste curieuse de tout, passionnée par les gens",
+    "bio": "Allo! Je suis Élodie, journaliste au journal local de Trois-Rivières. Mon travail me fait rencontrer des gens extraordinaires chaque jour, mais je cherche toujours quelqu'un d'extraordinaire pour moi.\n\nJ'aime poser des questions, écouter les histoires, explorer les vieilles ruelles de la ville et les petits cafés indépendants.\n\nJe cherche quelqu'un avec une bonne histoire à raconter!",
+    "photoUrl": "https://randomuser.me/api/portraits/women/20.jpg",
+    "photosUrls": [
+      {
+        "_key": "p1",
+        "url": "https://randomuser.me/api/portraits/women/20.jpg"
+      },
+      {
+        "_key": "p2",
+        "url": "https://randomuser.me/api/portraits/women/21.jpg"
+      }
+    ],
+    "tags": [
+      "Journalisme",
+      "Écriture",
+      "Café",
+      "Politique",
+      "Culture"
+    ],
+    "verifie": {
+      "photo": false,
+      "email": true,
+      "telephone": false,
+      "premium": false
+    },
+    "online": true,
+    "vedette": false,
+    "membreDepuis": "fév. 2025",
+    "derniereActivite": "1 h",
+    "affiliateUrl": "https://example.com/?ref=elodie",
+    "ville": {
+      "_type": "reference",
+      "_ref": "ville-trois-rivieres"
+    },
+    "categorie": {
+      "_type": "reference",
+      "_ref": "categorie-amitie"
+    }
+  },
+  {
+    "_type": "profile",
+    "_id": "profile-helene-longueuil-306",
+    "slug": {
+      "_type": "slug",
+      "current": "helene-longueuil-306"
+    },
+    "nom": "Hélène",
+    "age": 38,
+    "tagline": "Entrepreneur, maman, globe-trotteuse — je gère tout avec le sourire",
+    "bio": "Bonjour! Je suis Hélène, fondatrice d'une petite entreprise de design à Longueuil. J'ai voyagé dans 27 pays et je ne suis pas prête d'arrêter.\n\nJ'ai un fils de 10 ans qui est mon plus grand fan. Je cherche quelqu'un qui a le même appétit pour la vie que moi : ambitieux, aventurier, et présent dans les petits moments.\n\nSi vous aimez les défis et les couchers de soleil sur des plages inconnues, on se comprend!",
+    "photoUrl": "https://randomuser.me/api/portraits/women/4.jpg",
+    "photosUrls": [
+      {
+        "_key": "p1",
+        "url": "https://randomuser.me/api/portraits/women/4.jpg"
+      },
+      {
+        "_key": "p2",
+        "url": "https://randomuser.me/api/portraits/women/5.jpg"
+      }
+    ],
+    "tags": [
+      "Entrepreneuriat",
+      "Voyage",
+      "Design",
+      "Famille",
+      "Sport"
+    ],
+    "verifie": {
+      "photo": true,
+      "email": true,
+      "telephone": true,
+      "premium": true
+    },
+    "online": false,
+    "vedette": true,
+    "membreDepuis": "août 2023",
+    "derniereActivite": "2 h",
+    "affiliateUrl": "https://example.com/?ref=helene",
+    "ville": {
+      "_type": "reference",
+      "_ref": "ville-longueuil"
+    },
+    "categorie": {
+      "_type": "reference",
+      "_ref": "categorie-voyage"
+    }
+  },
+  {
+    "_type": "profile",
+    "_id": "profile-gabriel-montreal-401",
+    "slug": {
+      "_type": "slug",
+      "current": "gabriel-montreal-401"
+    },
+    "nom": "Gabriel",
+    "age": 30,
+    "tagline": "Musicien jazz, amateur de bonne cuisine et de vraies conversations",
+    "bio": "Salut! Je suis Gabriel, musicien jazz professionnel à Montréal. Je joue de la contrebasse dans plusieurs groupes et enseignes la musique à temps partiel.\n\nMa vie tourne autour de la musique, mais aussi des bons repas cuisinés à la maison, des soirées d'improvisation au Lion d'Or et des promenades le long du canal Lachine.\n\nJe cherche quelqu'un avec qui partager ces petits bonheurs quotidiens.",
+    "photoUrl": "https://randomuser.me/api/portraits/men/32.jpg",
+    "photosUrls": [
+      {
+        "_key": "p1",
+        "url": "https://randomuser.me/api/portraits/men/32.jpg"
+      },
+      {
+        "_key": "p2",
+        "url": "https://randomuser.me/api/portraits/men/33.jpg"
+      }
+    ],
+    "tags": [
+      "Musique",
+      "Jazz",
+      "Cuisine",
+      "Vélo",
+      "Art"
+    ],
+    "verifie": {
+      "photo": true,
+      "email": true,
+      "telephone": false,
+      "premium": false
+    },
+    "online": true,
+    "vedette": true,
+    "membreDepuis": "juin 2024",
+    "derniereActivite": "5 min",
+    "affiliateUrl": "https://example.com/?ref=gabriel",
+    "ville": {
+      "_type": "reference",
+      "_ref": "ville-montreal"
+    },
+    "categorie": {
+      "_type": "reference",
+      "_ref": "categorie-serieux"
+    }
+  },
+  {
+    "_type": "profile",
+    "_id": "profile-maxime-montreal-402",
+    "slug": {
+      "_type": "slug",
+      "current": "maxime-montreal-402"
+    },
+    "nom": "Maxime",
+    "age": 27,
+    "tagline": "Dev web le jour, grimpeur le soir — toujours vers le haut",
+    "bio": "Hey! Je suis Maxime, développeur web dans une startup du Griffintown. Je code des applications la journée et j'escalade les murs du gym le soir.\n\nJ'adore les week-ends en camping dans les Laurentides, les soirées jeux de société et les bons cafés du Plateau.\n\nJe cherche quelqu'un d'actif et adventurier, qui apprécie autant les randonnées que les soirées à la maison.",
+    "photoUrl": "https://randomuser.me/api/portraits/men/45.jpg",
+    "photosUrls": [
+      {
+        "_key": "p1",
+        "url": "https://randomuser.me/api/portraits/men/45.jpg"
+      },
+      {
+        "_key": "p2",
+        "url": "https://randomuser.me/api/portraits/men/46.jpg"
+      }
+    ],
+    "tags": [
+      "Escalade",
+      "Camping",
+      "Dev web",
+      "Café",
+      "Jeux"
+    ],
+    "verifie": {
+      "photo": true,
+      "email": true,
+      "telephone": true,
+      "premium": false
+    },
+    "online": true,
+    "vedette": false,
+    "membreDepuis": "nov. 2024",
+    "derniereActivite": "22 min",
+    "affiliateUrl": "https://example.com/?ref=maxime",
+    "ville": {
+      "_type": "reference",
+      "_ref": "ville-montreal"
+    },
+    "categorie": {
+      "_type": "reference",
+      "_ref": "categorie-aventure"
+    }
+  },
+  {
+    "_type": "profile",
+    "_id": "profile-thomas-quebec-403",
+    "slug": {
+      "_type": "slug",
+      "current": "thomas-quebec-403"
+    },
+    "nom": "Thomas",
+    "age": 34,
+    "tagline": "Architecte, skieur et grand amateur de fromages fins",
+    "bio": "Bonjour! Je suis Thomas, architecte à Québec. Je dessine des bâtiments qui durent et je cherche une relation qui dure aussi.\n\nEn hiver, vous me trouverez sur les pentes de Stoneham ou du Mont-Sainte-Anne. En été, en vélo ou en kayak sur le Saint-Laurent. Toujours avec un bon repas après!\n\nJe cherche quelqu'un de passionné, qui aime les saisons québécoises autant que moi.",
+    "photoUrl": "https://randomuser.me/api/portraits/men/22.jpg",
+    "photosUrls": [
+      {
+        "_key": "p1",
+        "url": "https://randomuser.me/api/portraits/men/22.jpg"
+      },
+      {
+        "_key": "p2",
+        "url": "https://randomuser.me/api/portraits/men/23.jpg"
+      }
+    ],
+    "tags": [
+      "Architecture",
+      "Ski",
+      "Kayak",
+      "Gastronomie",
+      "Design"
+    ],
+    "verifie": {
+      "photo": true,
+      "email": true,
+      "telephone": true,
+      "premium": true
+    },
+    "online": false,
+    "vedette": true,
+    "membreDepuis": "mai 2023",
+    "derniereActivite": "3 h",
+    "affiliateUrl": "https://example.com/?ref=thomas",
+    "ville": {
+      "_type": "reference",
+      "_ref": "ville-quebec"
+    },
+    "categorie": {
+      "_type": "reference",
+      "_ref": "categorie-serieux"
+    }
+  },
+  {
+    "_type": "profile",
+    "_id": "profile-alexandre-laval-404",
+    "slug": {
+      "_type": "slug",
+      "current": "alexandre-laval-404"
+    },
+    "nom": "Alexandre",
+    "age": 32,
+    "tagline": "Pompier, papa le week-end, cherche l'amour sans feu ni flamme… ou peut-être avec",
+    "bio": "Allo! Je suis Alexandre, pompier à Laval. Mon travail m'a appris à ne jamais remettre à demain ce qui peut être vécu aujourd'hui.\n\nJ'ai une fille de 7 ans que j'adore et avec qui je passe mes jours de congé. Je cherche quelqu'un de patient, de chaleureux, qui aime les enfants.\n\nEn dehors du travail : hockey avec les amis, BBQ en famille, et les longues randonnées en forêt.",
+    "photoUrl": "https://randomuser.me/api/portraits/men/55.jpg",
+    "photosUrls": [
+      {
+        "_key": "p1",
+        "url": "https://randomuser.me/api/portraits/men/55.jpg"
+      },
+      {
+        "_key": "p2",
+        "url": "https://randomuser.me/api/portraits/men/56.jpg"
+      }
+    ],
+    "tags": [
+      "Famille",
+      "Hockey",
+      "Plein air",
+      "BBQ",
+      "Fitness"
+    ],
+    "verifie": {
+      "photo": true,
+      "email": true,
+      "telephone": true,
+      "premium": false
+    },
+    "online": true,
+    "vedette": false,
+    "membreDepuis": "sept. 2024",
+    "derniereActivite": "40 min",
+    "affiliateUrl": "https://example.com/?ref=alexandre",
+    "ville": {
+      "_type": "reference",
+      "_ref": "ville-laval"
+    },
+    "categorie": {
+      "_type": "reference",
+      "_ref": "categorie-serieux"
+    }
+  },
+  {
+    "_type": "profile",
+    "_id": "profile-nicolas-gatineau-405",
+    "slug": {
+      "_type": "slug",
+      "current": "nicolas-gatineau-405"
+    },
+    "nom": "Nicolas",
+    "age": 28,
+    "tagline": "Chef cuisinier passionné qui veut cuisiner pour quelqu'un",
+    "bio": "Hey! Je suis Nicolas, chef cuisinier dans un restaurant gastronomique à Gatineau. Je passe mes journées à créer des expériences culinaires pour les autres, et mes soirées à rêver de cuisiner pour quelqu'un de spécial.\n\nEn dehors de la cuisine, j'adore les marchés fermiers, les documentaires, le camping et les bières artisanales québécoises.\n\nJe cherche quelqu'un avec qui partager de bons repas et de bons moments.",
+    "photoUrl": "https://randomuser.me/api/portraits/men/14.jpg",
+    "photosUrls": [
+      {
+        "_key": "p1",
+        "url": "https://randomuser.me/api/portraits/men/14.jpg"
+      },
+      {
+        "_key": "p2",
+        "url": "https://randomuser.me/api/portraits/men/15.jpg"
+      }
+    ],
+    "tags": [
+      "Cuisine",
+      "Gastronomie",
+      "Camping",
+      "Bière artisanale",
+      "Marchés"
+    ],
+    "verifie": {
+      "photo": true,
+      "email": true,
+      "telephone": false,
+      "premium": false
+    },
+    "online": false,
+    "vedette": false,
+    "membreDepuis": "jan. 2025",
+    "derniereActivite": "6 h",
+    "affiliateUrl": "https://example.com/?ref=nicolas",
+    "ville": {
+      "_type": "reference",
+      "_ref": "ville-gatineau"
+    },
+    "categorie": {
+      "_type": "reference",
+      "_ref": "categorie-rencontre"
+    }
+  },
+  {
+    "_type": "profile",
+    "_id": "profile-julien-sherbrooke-406",
+    "slug": {
+      "_type": "slug",
+      "current": "julien-sherbrooke-406"
+    },
+    "nom": "Julien",
+    "age": 29,
+    "tagline": "Professeur de sciences, cherche quelqu'un pour expérimenter la vie à deux",
+    "bio": "Bonjour! Je suis Julien, prof de physique au secondaire à Sherbrooke. J'enseigne la beauté du monde à travers les sciences.\n\nEn dehors de l'école, je fais de la course à pied (je prépare un marathon), de la randonnée dans les Cantons-de-l'Est et je joue de la guitare folk.\n\nJe cherche quelqu'un d'intelligent, de curieux et qui rit facilement. La bonne humeur, ça change une vie.",
+    "photoUrl": "https://randomuser.me/api/portraits/men/68.jpg",
+    "photosUrls": [
+      {
+        "_key": "p1",
+        "url": "https://randomuser.me/api/portraits/men/68.jpg"
+      },
+      {
+        "_key": "p2",
+        "url": "https://randomuser.me/api/portraits/men/69.jpg"
+      }
+    ],
+    "tags": [
+      "Sciences",
+      "Course",
+      "Guitare",
+      "Randonnée",
+      "Enseignement"
+    ],
+    "verifie": {
+      "photo": true,
+      "email": true,
+      "telephone": false,
+      "premium": false
+    },
+    "online": true,
+    "vedette": false,
+    "membreDepuis": "déc. 2024",
+    "derniereActivite": "2 h",
+    "affiliateUrl": "https://example.com/?ref=julien",
+    "ville": {
+      "_type": "reference",
+      "_ref": "ville-sherbrooke"
+    },
+    "categorie": {
+      "_type": "reference",
+      "_ref": "categorie-serieux"
+    }
+  }
+]

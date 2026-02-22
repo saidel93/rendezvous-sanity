@@ -1,0 +1,8 @@
+[
+  { "_type": "categorie", "_id": "categorie-serieux",  "nom": "Relation sérieuse",       "slug": { "_type": "slug", "current": "serieux" },   "emoji": "❤️",  "description": "Pour ceux qui cherchent une relation durable et authentique" },
+  { "_type": "categorie", "_id": "categorie-aventure", "nom": "Aventure et passion",     "slug": { "_type": "slug", "current": "aventure" },  "emoji": "🔥",  "description": "Pour ceux qui cherchent l'étincelle et l'intensité" },
+  { "_type": "categorie", "_id": "categorie-amitie",   "nom": "Amitié et complicité",    "slug": { "_type": "slug", "current": "amitie" },    "emoji": "🤝",  "description": "Connexions sincères et amitiés profondes" },
+  { "_type": "categorie", "_id": "categorie-rencontre","nom": "Rencontre décontractée",  "slug": { "_type": "slug", "current": "rencontre" }, "emoji": "☕",  "description": "Rencontres sans prise de tête" },
+  { "_type": "categorie", "_id": "categorie-voyage",   "nom": "Partenaire de voyage",    "slug": { "_type": "slug", "current": "voyage" },    "emoji": "✈️",  "description": "Pour explorer le monde ensemble" },
+  { "_type": "categorie", "_id": "categorie-sport",    "nom": "Sport et activités",      "slug": { "_type": "slug", "current": "sport" },     "emoji": "🏃",  "description": "Rencontres actives et sportives" }
+]

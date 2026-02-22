@@ -1,0 +1,11 @@
+[
+  { "_type": "ville", "_id": "ville-montreal",      "nom": "Montréal",       "slug": { "_type": "slug", "current": "montreal" },        "region": "Montréal" },
+  { "_type": "ville", "_id": "ville-quebec",         "nom": "Québec",         "slug": { "_type": "slug", "current": "quebec-city" },     "region": "Capitale-Nationale" },
+  { "_type": "ville", "_id": "ville-laval",          "nom": "Laval",          "slug": { "_type": "slug", "current": "laval" },           "region": "Laval" },
+  { "_type": "ville", "_id": "ville-longueuil",      "nom": "Longueuil",      "slug": { "_type": "slug", "current": "longueuil" },       "region": "Montérégie" },
+  { "_type": "ville", "_id": "ville-gatineau",       "nom": "Gatineau",       "slug": { "_type": "slug", "current": "gatineau" },        "region": "Outaouais" },
+  { "_type": "ville", "_id": "ville-sherbrooke",     "nom": "Sherbrooke",     "slug": { "_type": "slug", "current": "sherbrooke" },      "region": "Estrie" },
+  { "_type": "ville", "_id": "ville-trois-rivieres", "nom": "Trois-Rivières", "slug": { "_type": "slug", "current": "trois-rivieres" },  "region": "Mauricie" },
+  { "_type": "ville", "_id": "ville-levis",          "nom": "Lévis",          "slug": { "_type": "slug", "current": "levis" },           "region": "Chaudière-Appalaches" },
+  { "_type": "ville", "_id": "ville-saguenay",       "nom": "Saguenay",       "slug": { "_type": "slug", "current": "saguenay" },        "region": "Saguenay–Lac-Saint-Jean" }
+]
