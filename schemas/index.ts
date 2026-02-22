@@ -1,5 +1,6 @@
-import ville from './ville'
+import ville     from './ville'
 import categorie from './categorie'
-import profile from './profile'
+import profile   from './profile'
+import settings  from './settings'
 
-export const schemaTypes = [ville, categorie, profile]
+export const schemaTypes = [settings, ville, categorie, profile]
